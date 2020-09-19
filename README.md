@@ -17,7 +17,7 @@ Create a functional application allows the user to track the withdrawals and dep
 GitHub Profile: https://github.com/Veron-star/PWA-BudgetTracker
 
 ## Heroku:
-Link: https://dashboard.heroku.com/apps/budget-tracker-v
+Link: https://budget-tracker-v.herokuapp.com/
 
 ![](/screenshot.PNG)
 
